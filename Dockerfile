@@ -1,6 +1,6 @@
 FROM python:3.9.5-slim-buster
-LABEL author="Lan"
-LABEL email="vast@tom.com"
+LABEL author="L"
+LABEL email="@"
 LABEL version="1.5.8"
 
 
